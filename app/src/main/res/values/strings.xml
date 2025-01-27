@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GaleriadeArtes</string>
+    <string name="descricao_imagem_arte" />
+    <string name="titulo_quadro">Corrente de Luz</string>
+    <string name="titulo_descricao">Esta obra abstrata intitulada \"Corrente de Luz\" explora a fluidez e a serenidade dos elementos naturais. Os tons suaves de azul e verde evocam a tranquilidade da água em movimento, enquanto os toques dourados simbolizam raios de luz que penetram delicadamente o ambiente etéreo.</string>
+    <string name="titulo_quadro2">Chama Viva</string>
+    <string name="titulo_descricao2">\"Chama Viva\" é uma obra vibrante que expressa energia e paixão através de tons intensos de vermelho, laranja e dourado.</string>
+</resources>
